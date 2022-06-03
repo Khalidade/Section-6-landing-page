@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#creative-section{
+    background: rgba(185, 24, 105, 1);
+    
+}
+.creative-text{
+    text-align: justify;
+    font-family: 'MuseoModerno'; 
+    font-size: 13px!important;  
+}
+.text-section{
+    padding-top: 150px;
+    
+}
+.vector{
+   
+    width: 3vh;
+    height: 3vh;
+
+}
+.video-section{
+    padding-top: 150px;
+}
+.video-section p{
+
+    font-size: 72px;
+}
+.group-dots{
+padding-left: 200px;
+}
+.more{
+    font-family: 'museo-sans';
+    font-weight: 700;
+}
+.more-info{
+    font-family: 'MuseoModerno';
+}
+#energy-section{
+    background: linear-gradient(179.91deg, rgba(255, 255, 255, 0) 17.3%, rgba(255, 255, 255, 0.05) 99.92%), #0B131F;
+   
+    
+    
+}
+.energy-text{
+    padding-top: 50px;
+}
+.energy-word, .mkutano-text, .year{
+    font-size: 50px;
+    
+}
+.energy-word{
+    color: rgba(185, 24, 105, 1);
+    
+
+}
+.button-img{
+
+    width: 15px;
+    height: 15px;
+    
+    
+}
+.button-box{
+    position: absolute;
+    top: 300px;
+   left: 320px;
+
+    
+}
+
+.green-button{
+    width: 130px;
+    height: 40px;
+    border-radius: 500px;
+    
+}
+
+.lorem{
+    font-family: "Museomoderno";
+    
+    text-align: justify;
+
+}
+.party-img{
+    width: 100v;
+    height: 100vh;
+
+}
+@media (max-width: 426px){
+    .button-box{
+        position: absolute;
+        top: 300px;
+        left: 190px;
+    }
+
+}
+
